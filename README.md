@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gene-science
+- 👀 I’m interested in Genetic science，and I hope use computer to solve problems.
+- 🌱 I’m currently learning Devops
